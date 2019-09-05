@@ -1,0 +1,37 @@
+/* Styling - Navigation Bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* TODO: Add more styling to your navigation bar - See W3 Schools for help */
+
+
+
+
+
+
+/* Structuring & Styling- Gallery */
+/* TODO: Change styling to your colour scheme - See W3 Schools for help */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+/* TODO: Change styling to your colour scheme - See W3 Schools for help */
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
