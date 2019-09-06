@@ -1,10 +1,15 @@
 /* Styling - Navigation Bar */
+body {
+  background-color: rgb(70, 259, 250);
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
+
+/* Clearfix (clear floats) */
 /* TODO: Add more styling to your navigation bar - See W3 Schools for help */
 
 
